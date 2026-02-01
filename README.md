@@ -1,3 +1,3 @@
 # wandb-cicd
 
-This repo is testing ci/cd principles with w&b ML course
+This repo contains ci/cd code testing solid principles with w&b ML course
